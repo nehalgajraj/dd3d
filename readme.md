@@ -12,4 +12,4 @@
 
 ## Acknowledgement
 - This is not the complete set of files used in DDLab simulation bundle.
-- For more, visit [code](micro.stanford.edu/~caiwei/Forum/2005-12-05-DDLab/
+- For more, visit [code](micro.stanford.edu/~caiwei/Forum/2005-12-05-DDLab/)
